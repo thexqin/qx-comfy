@@ -30,7 +30,7 @@ git clone https://github.com/thexqin/qx-comfy qx-comfy
 
 ### 2\. Install Dependencies
 
-This node requires the `google-genai` and `Pillow` libraries.
+This node requires the `google-genai` and `pillow` libraries.
 
 ```bash
 cd ComfyUI/custom_nodes/qx-comfy
