@@ -8,7 +8,7 @@ Tired of manually crafting complex prompts from an initial image? The **qx-comfy
 
 The node takes an input **IMAGE** and your **API Key**, and outputs a detailed **STRING** prompt for your CLIP Text Encode node.
 
-![screenshot](screenshot.PNG)
+![screenshot](screenshot.png)
 
 ## 🚀 Key Features
 
